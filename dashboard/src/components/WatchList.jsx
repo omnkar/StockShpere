@@ -8,7 +8,7 @@ import MoreHorizIcon from "@mui/icons-material/MoreHoriz";
 import GeneralContext from "./GeneralContext";
 
 const WatchList = () => {
-  useState();
+  
   return (
     <div className="watchlist-container">
       <div className="search-container">
